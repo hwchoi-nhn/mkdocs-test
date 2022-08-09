@@ -1,4 +1,4 @@
-nav:
+pages:
     - NHN Cloud:
         - "개요": TOAST/ko/Overview.md
         - "사용 가이드": TOAST/ko/user-guide.md
@@ -7,3 +7,5 @@ nav:
         - "보안 정책": TOAST/ko/security-policy.md
 site_name: 사용자가이드
 theme: readthedocs
+extra:
+	language: ko
