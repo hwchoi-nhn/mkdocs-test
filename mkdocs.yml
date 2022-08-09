@@ -7,5 +7,3 @@ pages:
         - "보안 정책": TOAST/ko/security-policy.md
 site_name: 사용자가이드
 theme: readthedocs
-extra:
-	language: ko
